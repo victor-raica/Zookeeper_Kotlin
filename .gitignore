@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Zookeeper (Kotlin)/task/build/
+/Zookeeper (Kotlin)/task/out/
+/Zookeeper (Kotlin)/task/out/production/classes/
